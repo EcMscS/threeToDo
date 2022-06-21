@@ -35,9 +35,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Simple Todo List
+    description                           : Minimal task assistance that is non intrusive
     fontawesome_icon_name                 : magic
+    
+  - title                                 : Only Three Tasks at a time
+    description                           : Present only 3 tasks at a given time.  As you deal with them, we will keep track and tell you how you're doing.
+    fontawesome_icon_name                 : list-check
+
+  - title                                 : Three Actions
+    description                           : 3 ways to action a task - Done, Defer, and Drop.
+    fontawesome_icon_name                 : 3
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
