@@ -5,61 +5,70 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+Three Todo change logs are available below.  Take a look and let me know what other changes can improve the app.
 
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+### **Version 2.5.1**
+It's a new year! Time for a small update. More to come soon!
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- iOS 14 compatible
+- Cleaned up a few bugs
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+Thanks for your support!
 
 <br>
+
+### **Version 2.4**
+Another task completed and checked off the list. Here is an update we hope you enjoy. If you like our app, please write us a review.  We would greatly appreciate it.  If there are features you would like to see, please contact us.
+
+#### What's New
+- iOS 13 support
+- Dark mode support
+- Bug fixes
+
+<br>
+
+### **Version 2.3**
+It's a new year and time for an update.  We hope these tweaks will help to make your life productive without all the need to figure out how to use the to do list.
+
+#### What's New
+- Addition of queued tasks, allowing you to see the tasks that are not immediately visible when more than 3 tasks are added.
+- Ability to delete the tasks in the queue along with seeing the status of time since task creation and number of defers.
+- Addition of completed tasks, allowing you to see all the takss that you have finished, with the completion time and total number of defers.
+- Addition of a slide out menu which can be accessed by either swiping right from the screen or tapping the menu icon on the top left.
+
+A big thank you to all those who wrote to us with suggestions and wrote a review.  We tried to see what updates we coudl do but still simultaneously keep the app simple to use.  Let us know what you think, we would love to hear from you.  If you can, please write us a review with this new update.
+
+<br>
+
+### **Version 2.2**
+Bug fixes and other minor mistakes corrected.
 
 ### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
+New update has arrived!
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- iPhone X support added.
+- Optimized the creation of tasks, the task button is easily reachable near the bottom of the screen.
+- The option of deferring a task will only be visible once 4 or more tasks are created.
+- Under the hood improvements.
 
+We hope you enjoy this update! If you have any suggestions for additional features or find any bugs, please let us know.
 <br>
 
+# **Version 2.0**
+#### What's New
+- Add redesign with larger text and vibrant colors.
+- App updated for iOS 11
+<br>
 ________
 <br>
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+#### The Beginning
+The start of Three Todo
 
 <br>
