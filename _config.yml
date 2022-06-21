@@ -41,11 +41,11 @@ features                                  :
     
   - title                                 : Only Three Tasks at a time
     description                           : Present only 3 tasks at a given time.  As you deal with them, we will keep track and tell you how you're doing.
-    fontawesome_icon_name                 : list-check
+    fontawesome_icon_name                 : list
 
   - title                                 : Three Actions
     description                           : 3 ways to action a task - Done, Defer, and Drop.
-    fontawesome_icon_name                 : 3
+    fontawesome_icon_name                 : dice-three
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
