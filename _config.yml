@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : THREE: Made for procrastinators by procrastinators. The Refreshingly Simple Stress Free Todo List. THREE is designed to be a minimal task assistant that is non intrusive. THREE isn't designed to keep you on top of every facet of your life. No meaningless trophies or achievements. Rather, THREE will slowly but surely change the course of your life and help point you in the right direction by keeping track of the stuff that matters to you and presenting them to you in a manageable fashion.
+app_description                           : Made for procrastinations by procrastinators.  The refreshingly simple stress free Todo list.  THREE is designed to be a minimal task assitant that is non instrusive.  THREE isn't designed to keep you on top of every facet of your life.  Rather, it will slowly but surely change the course of your life and help point you in the right direction.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
